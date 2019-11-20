@@ -232,7 +232,7 @@
   )
 
   (module Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm (layer F.Cu) (tedit 5A0FD1B2) (tstamp 5DCDBF8C)
-    (at 152.84 89.04 180)
+    (at 153.84 83.02 180)
     (descr "crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (path /5DD7F07A)
