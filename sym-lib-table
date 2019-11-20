@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name conncetor)(type Legacy)(uri ${KIPRJMOD}/conncetor.lib)(options "")(descr ""))
+  (lib (name tag-connector)(type Legacy)(uri "/Users/kotaroshobayashi/Documents/CHECK CAREFULLY AGAINST TAG-CONNECT SPEC AND USE AT YOUR OWN RISK/KiCad/Tag-Connect Full Catalog KiCad Decal Library/Tag-Connect_Schematic_Library/Tag-Connect.lib")(options "")(descr ""))
+)
